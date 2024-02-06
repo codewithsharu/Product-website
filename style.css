@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun&display=swap');
+body{
+    font-family: 'Reem Kufi Fun', sans-serif;
+}
+nav {
+    height: 5rem;
+    width: auto;
+    background-color: #0B1832;
+    position: relative; 
+}
+
+.lt {
+    position: absolute; 
+    top: 1.9rem; 
+    left: 0; 
+    justify-content: center;
+}
+
+.lt a{
+    color: aliceblue;
+    text-decoration: none;
+    justify-content: space-around;
+    color:white;
+    margin-left: 2rem;
+}
+
+
+.logo {
+    position: absolute;
+    top: -105%;
+    left: 41%;
+
+    transform: scale(0.25); 
+}
+
+.bag{
+    transform: scale(1.2); 
+}
+
+.st{
+    transform: scale(1.2); 
+}
+.rt{
+    position: absolute; 
+    top: 1.9rem; 
+    right: 1%; 
+}
+.rt i{
+    margin-right: 1.3rem;
+}
+
