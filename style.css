@@ -3,6 +3,7 @@ body{
     font-family: 'Reem Kufi Fun', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: blue;
 }
 nav {
     height: 5rem;
@@ -26,14 +27,16 @@ nav {
     margin-left: 2rem;
 }
 
-
 .logo {
     position: absolute;
-    top: -105%;
-    left: 41%;
-
+    left: 34%;
     transform: scale(0.25); 
+    overflow-y: hidden;
+    top:-14.6rem;
+    
+   
 }
+
 
 .bag{
     transform: scale(1.2); 
