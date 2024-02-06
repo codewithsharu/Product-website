@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun&display=swap');
 body{
     font-family: 'Reem Kufi Fun', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 nav {
     height: 5rem;
@@ -47,5 +49,25 @@ nav {
 }
 .rt i{
     margin-right: 1.3rem;
+}
+
+.b1{
+    height:40rem;
+    width: auto;
+}
+
+.butb1{
+  position: absolute;
+  background-color:  #0B1832;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 1rem;
+  margin: 1.9rem 26rem;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 4rem;
+  width: 16rem;
 }
 
