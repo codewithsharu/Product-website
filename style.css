@@ -74,3 +74,14 @@ nav {
   width: 16rem;
 }
 
+.b2li{
+  transform: scale(0.9);
+  margin-top:-5%;
+}
+
+.b2ri{
+    transform: scale(0.5);
+    margin-top:-15%;
+    position: absolute;
+    right: -6rem;
+  }
